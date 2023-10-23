@@ -10,4 +10,5 @@ The rc.conf file are shortcut keybinds, those can be edited to your liking as we
 
 For the `runbuild` class/functionality to work, you'll need to set the paths marked with "/path/to/python/binary" in the both the class and contents in the `build` folder and terminal accordingly. 
 
-[runbuild demo](https://github.com/sudointelectual/ranger-custom/assets/103446116/59ed9114-5cab-4651-bc9e-5de329a6927d)
+
+[github-ranger-vid.webm](https://github.com/sudointelectual/ranger-custom/assets/103446116/bdf33f79-e673-46fe-8636-280c19b97bd5)
